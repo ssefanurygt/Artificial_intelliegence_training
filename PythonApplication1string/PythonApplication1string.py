@@ -7,6 +7,7 @@ mesaj = "merhaba"
 mesaj2 = "dunya"
 isim= "yusuf"
 yas= "48"
+
 #print(mesaj2 + mesaj)
 ##print(mesaj[2])
 #print(mesaj2[-3])
