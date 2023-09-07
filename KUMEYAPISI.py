@@ -1,8 +1,8 @@
 ﻿kume= {'mavi','sari','yesil','mor'}
 print(kume)
 
-#for renk in kume:
- #print(kume)    
+for renk in kume:
+print(kume)    
 
 kume.add("turuncu")
 kume.remove("sari")  #remove metodu eleman kumede yoksa  hata verir yazdırmaz.
